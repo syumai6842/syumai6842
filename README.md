@@ -1,7 +1,5 @@
-こんにちは！しゅーまいです。
-普段はjavaやpythonを勉強しています。
-html/css/javascriptも履修しています。
-マイクラのMODを作ってみたいです。
+うおおおおおおおおおおおお！！！！
+Java どりゃああああああ！！
 
 <!---
 syumai6842/syumai6842 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
