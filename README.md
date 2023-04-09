@@ -1,5 +1,4 @@
-うおおおおおおおおおおおお！！！！
-Java どりゃああああああ！！
+student
 
 <!---
 syumai6842/syumai6842 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
